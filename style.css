@@ -1,21 +1,23 @@
 img{
-  border:blue;
+  border:midnightblue;
+  padding:3px;
 }
 h2{
   color:midnightblue;
 }
 h1{
-  color:midnightblue;
+  color:white;
 }
 h3{
-  color:midnightblue;
+  color:white;
 }
 img{
   background-color:blue;
 }
 .top
 {
-  background-color:CadetBlue;
+
+  background-image :url(images.jpeg);
 
 }
   hr{
